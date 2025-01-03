@@ -39,6 +39,8 @@ dependencies {
     // Core Libs:
 //    implementation libs.androidx.core.ktx
     implementation "com.android.support:support-compat:28.0.0"
+    implementation 'com.google.code.gson:gson:2.8.9'
+
 //    implementation libs.androidx.constraintlayout
 
     // Rest API Libs:
